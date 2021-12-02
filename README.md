@@ -7,3 +7,4 @@
 
 数据集解压后的文件夹目录：flower_data flower_photos(解压数据集文件夹，3670个样本)  train（生成的训练集， 3306个样本） val（生成的验证集，364个样本）
 
+网络模型的理解，可参考我的博客：https://www.cnblogs.com/zhaopengpeng/p/15626109.html
